@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>pictures</folder>
+<filename>0013.jpg</filename>
+<path>/home/gavin/NoteBook/学习汇报/pictures/0013.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>640</width>
+    <height>425</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>214</xmin>
+        <ymin>170</ymin>
+        <xmax>598</xmax>
+        <ymax>400</ymax>
+    </bndbox>
+</object>
+</annotation>

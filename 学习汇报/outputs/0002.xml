@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>pictures</folder>
+<filename>0002.jpg</filename>
+<path>/home/gavin/NoteBook/学习汇报/pictures/0002.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>660</width>
+    <height>440</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <cubic_bezier>
+			<x1>65</x1>
+			<y1>87</y1>
+			<x1_c1>65</x1_c1>
+			<y1_c1>87</y1_c1>
+			<x1_c2>61</x1_c2>
+			<y1_c2>88</y1_c2>
+			<x2>65</x2>
+			<y2>87</y2>
+			<x2_c1>-48</x2_c1>
+			<y2_c1>13</y2_c1>
+			<x2_c2>65</x2_c2>
+			<y2_c2>87</y2_c2>
+		</cubic_bezier>
+</object>
+    <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>44</xmin>
+        <ymin>67</ymin>
+        <xmax>650</xmax>
+        <ymax>376</ymax>
+    </bndbox>
+</object>
+</annotation>
