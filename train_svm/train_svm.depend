@@ -1,5 +1,0 @@
-# depslib dependency file v1.0
-1554877532 source:/home/gavin/NoteBook/train_svm/main.cpp
-	<opencv2/opencv.hpp>
-	<iostream>
-
